@@ -1,0 +1,37 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Database
+db.sqlite3
+
+# Static files
+staticfiles/
+static/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Binaries and archives
+*.bin
+*.exe
+*.dll
+*.so
+*.zip
+*.tar
+*.gz
+*.7z
